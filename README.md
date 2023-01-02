@@ -5,8 +5,6 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Luisda2705) 
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/13078682/luisda2705)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Spotify recently played...
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)](https://open.spotify.com/user/1276385505)
 
