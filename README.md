@@ -1,4 +1,4 @@
-### Hey I'm Luis 👋 !
+### Hi I'm Luis 👋 !
 
 I am Network Engineer, musician and Web Developer from Mexico. I like building web pages and get new ideas into apps, I spent time contributing to open source projects and trying to resolve new problems each day.
 
