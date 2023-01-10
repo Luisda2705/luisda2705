@@ -9,7 +9,7 @@ I am Network Engineer, Musician and Web Developer from Mexico. I like building w
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=gruvbox)
 
-## Languages and Tools:
+## Languages and Tools I use:
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
