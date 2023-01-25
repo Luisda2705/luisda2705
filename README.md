@@ -7,7 +7,7 @@ I am Network Engineer, Musician and Web Developer from Mexico. I like building w
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Luisda2705) 
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/13078682/luisda2705)
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=onedark)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=tokyonight)
 
 ## Languages and Tools I use:
 
