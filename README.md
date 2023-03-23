@@ -32,7 +32,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Javascript">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Javascript&svgfill=cd6799">
 </a>
  
 ### My recently played...
