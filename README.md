@@ -35,6 +35,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 ### My recently played...
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)](https://open.spotify.com/user/1276385505)
 
+![spotify-github-profile](/img/default.svg)
 
 
 <!--
