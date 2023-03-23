@@ -1,5 +1,4 @@
-### Hi, I'm Luis 👋 !
-# :tada: :house: :star2: Welcome to br3ndonland :muscle: :nerd_face: :coffee:
+# :tada: :house: :star2: Hi, I'm Luis 👋 ! :muscle: :nerd_face: :coffee:
 
 I am Network Engineer, Musician and Web Developer from Mexico. I like building web pages and converting new ideas into apps, I spent most of the time contributing to open source projects and trying to resolve new problems each day.
 
