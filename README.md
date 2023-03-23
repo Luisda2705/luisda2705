@@ -2,7 +2,7 @@
 
 I am Network Engineer, Musician and Web Developer from Mexico. I like building web pages and converting new ideas into apps, I spent most of the time contributing to open source projects and trying to resolve new problems each day.
 
-Visitor Count
+## Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/Luisda2705/count.svg)
 
