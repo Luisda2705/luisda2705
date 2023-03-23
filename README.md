@@ -31,6 +31,9 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NodeJS&svgfill=cd6799">
+</a>
  
 ### My recently played...
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)](https://open.spotify.com/user/1276385505)
