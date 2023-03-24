@@ -35,7 +35,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Javascript&svgfill=cd6799">
 </a>
  
-### My Spotify recently played...
+### My Spotify recently played
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)](https://open.spotify.com/user/1276385505)
 
 <!--
