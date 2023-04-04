@@ -4,7 +4,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/Luisda2705/count.svg)
 
-<p align="center">
+
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Luisda2705) 
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/13078682/luisda2705)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luis-cid-627220167/)
