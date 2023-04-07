@@ -10,7 +10,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luis-cid-627220167/)
 
 ## My Github Stats
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=merko)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=radical)
 
 ## Languages and Tools I use:
 <p align="left">  
