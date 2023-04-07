@@ -12,7 +12,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 ## My Github Stats
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=radical)
 
-## Languages and Tools I use
+## Languages and Tools
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
