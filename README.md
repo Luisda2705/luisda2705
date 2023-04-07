@@ -82,9 +82,8 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
  
 ### My Spotify recently played...
-<p>
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)](https://open.spotify.com/user/1276385505)
-</p>
+
 <!--
 **Luisda2705/luisda2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
