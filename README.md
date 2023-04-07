@@ -28,9 +28,6 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Javascript&svgfill=cd6799">
 </a>
 <p style="display: inline-block;" align="center">
