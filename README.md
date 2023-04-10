@@ -68,11 +68,10 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 
-[!["Buy Me A Coffee"](https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif)](https://www.buymeacoffee.com/luisda2705)
-
-
 ### My Spotify recently played...
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)](https://open.spotify.com/user/1276385505)
+
+[!["Buy Me A Coffee"](https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif)](https://www.buymeacoffee.com/luisda2705)
 
 <!--
 **Luisda2705/luisda2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
