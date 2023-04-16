@@ -71,7 +71,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 
 <a href="https://www.buymeacoffee.com/luisda2705"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y)
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA)
 
 ### My Spotify recently played...
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)](https://open.spotify.com/user/1276385505)
