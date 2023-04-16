@@ -71,7 +71,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 
 <a href="https://www.buymeacoffee.com/luisda2705"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-[![Donate with PayPal](https://images.squarespace-cdn.com/content/v1/5852f18a20099e30cd2c01dc/1587524889957-7OPFO17X79CW2JV1HYH1/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA)
+[![Donate with PayPal](https://www.cavankerrypress.org/ckp/wp-content/uploads/2022/11/paypal-donate-blue-button-hd-png-21635276531bin35y3ign.png)](https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA)
 
 ### My Spotify recently played...
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)](https://open.spotify.com/user/1276385505)
