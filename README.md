@@ -68,6 +68,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 </p>
 </p>
 
+
 <p style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
