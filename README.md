@@ -82,7 +82,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 <a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="http://www.paypal.com/en_US/i/btn/x-click-but6.gif"/>
 </p>
 
-### My Spotify recently played...
+## My Spotify recently played...
 <p style="display: inline-block;" align="center">
 <a href="https://open.spotify.com/user/1276385505"><img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505"/>
 </p>
