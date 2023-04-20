@@ -79,9 +79,9 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
   <img src="(https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
+  <img src="">
+  <img src="">
+  <img src="">
   <br><br>
 </p>
 
