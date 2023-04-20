@@ -68,13 +68,6 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 </p>
 </p>
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
-
-
 <p style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -84,9 +77,11 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
   <br><br>
 </p>
 
+<p style="display: inline-block;" align="center">
+<a href="https://www.buymeacoffee.com/luisda2705"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> 
+[![Donate with PayPal](http://www.paypal.com/en_US/i/btn/x-click-but6.gif)](https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA)
+</p>
 
-<a href="https://www.buymeacoffee.com/luisda2705"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> [![Donate with PayPal](http://www.paypal.com/en_US/i/btn/x-click-but6.gif)](https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA)
-  
 ### My Spotify recently played...
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)](https://open.spotify.com/user/1276385505)
 
