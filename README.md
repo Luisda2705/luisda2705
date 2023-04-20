@@ -79,9 +79,9 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 
 <p style="display: inline-block;" align="center">
 <a href="https://www.buymeacoffee.com/luisda2705"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> 
-<a href="http://www.paypal.com/en_US/i/btn/x-click-but6.gif"><img src="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"/>
+<a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="http://www.paypal.com/en_US/i/btn/x-click-but6.gif"/>
 </p>
-
+  
 [![Donate with PayPal](http://www.paypal.com/en_US/i/btn/x-click-but6.gif)](https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA)
   
 ### My Spotify recently played...
