@@ -13,7 +13,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 ## My Github Stats
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=radical)
 
-## Languages and Tools
+## Languages and Tools:
 <p style="display: inline-block;" align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
