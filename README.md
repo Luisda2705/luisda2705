@@ -11,7 +11,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 
 
 ## My Github Stats
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=radical)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=swift)
 
 ## Languages and Tools
 <p style="display: inline-block;" align="center">
