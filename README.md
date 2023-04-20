@@ -84,7 +84,9 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 
 
 <p style="display: inline-block;" align="center">
+<p>
 ### My Spotify recently played...
+</p>
 <a href="https://open.spotify.com/user/1276385505"><img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505"/>
 </p>
   
