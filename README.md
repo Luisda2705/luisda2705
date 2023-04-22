@@ -83,8 +83,12 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
 <a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="http://www.paypal.com/en_US/i/btn/x-click-but6.gif"/>
 </p>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1276385505&width=600)
+![Spotify recently played][https://spotify-recently-played-readme.vercel.app/api?user=1276385505&width=600](https://open.spotify.com/user/luisda2705)
   
+<p style="display: inline-block;" align="center">
+  <a href="https://open.spotify.com/user/luisda2705"><img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&width=600"/>
+</p>
+
 <!--
 **Luisda2705/luisda2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
