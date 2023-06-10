@@ -49,6 +49,7 @@ I'm a Network Engineer, Musician and Web Developer from Mexico. I like building 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </kbd>
+  <br>
 </p>
 </p>
 
