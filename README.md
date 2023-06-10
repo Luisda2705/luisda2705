@@ -1,4 +1,4 @@
-# :tada: :house: :star2: ¡ Hi, I'm Luis 👋 ! :muscle: :nerd_face: :coffee:
+# :tada: :house: :star2: ¡ Hi, I'm Luis 👋 ! :muscle: :coffee:
 
 I'm a Network Engineer, Musician and Web Developer from Mexico. I like building web pages and converting new ideas into apps. I spent most of my time contributing to Open Source Projects and trying to resolve new problems each day.
 
