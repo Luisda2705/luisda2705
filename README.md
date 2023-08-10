@@ -13,7 +13,7 @@ I'm a Security and Network Engineer, Web Developer, and Guitar Player from Mexic
 </a>
 
 ## My Github Stats
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=white)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=night)
 
 ## Languages and Tools
 <p style="display: inline-block;" align="center">
