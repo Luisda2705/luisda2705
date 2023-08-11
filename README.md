@@ -1,6 +1,6 @@
 # :house: ¡ Hi, I'm Luis ! :coffee:
 
-I'm a **Security and Network** Engineer, Web Developer, and Guitar Player from Mexico. I like building web pages and converting new ideas into apps! I spent most of my time contributing to Open Source Projects and trying to resolve new problems each days...
+I'm a **Security and Network** **Engineer**, Web Developer, and Guitar Player from Mexico. I like building web pages and converting new ideas into apps! I spent most of my time contributing to Open Source Projects and trying to resolve new problems each days...
 
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/Luisda2705/count.svg)
