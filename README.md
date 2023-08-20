@@ -33,7 +33,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 </p>
 
 <p style="display: inline-block;" align="center">
-  <a href="https://open.spotify.com/user/luisda2705"><img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&width=600"/>
+  <a href="https://open.spotify.com/user/1276385505"><img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&width=600"/>
 </p>
 
 <!--
