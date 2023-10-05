@@ -35,7 +35,9 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=1276385505&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&redirect=true)
+<!---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]#(https://spotify-github-profile.vercel.app/api/view?uid=1276385505&redirect=true)
+-->
 
 <!--
 **Luisda2705/luisda2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
