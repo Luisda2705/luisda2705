@@ -31,6 +31,9 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 <a href="https://www.buymeacoffee.com/luisda2705"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> 
 <a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="http://www.paypal.com/en_US/i/btn/x-click-but6.gif"/>
 
+<a href="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1276385505&redirect=true]"><img src="[https://spotify-github-profile.vercel.app/api/view.svg?
+uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]"/>
+
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=1276385505&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?
 uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
 
@@ -38,7 +41,7 @@ uid=1276385505&cover_image=true&theme=default&show_offline=false&background_colo
 
 </p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1276385505&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1276385505&redirect=true] [https://spotify-github-profile.vercel.app/api/view.svg?
 uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&redirect=true)
@@ -52,6 +55,7 @@ uid=1276385505&cover_image=true&theme=default&show_offline=false&background_colo
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&redirect=true)
 
 </p>
+
 
 
 <!--
