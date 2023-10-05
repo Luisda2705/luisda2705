@@ -8,7 +8,6 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 <a href="https://profile-counter.glitch.me/Luisda2705/count.svg"><img src="https://profile-counter.glitch.me/Luisda2705/count.svg"/>
 </p>
     
-![Visitor Count](https://profile-counter.glitch.me/Luisda2705/count.svg)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Luisda2705)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luisda2705/)
