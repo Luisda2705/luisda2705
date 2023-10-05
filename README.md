@@ -33,11 +33,6 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=1276385505&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?
 uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)"/>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1276385505&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?
-uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&redirect=true)
-
 </p>
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=1276385505&redirect=true] [https://spotify-github-profile.vercel.app/api/view.svg?
@@ -48,14 +43,7 @@ uid=1276385505&cover_image=true&theme=default&show_offline=false&background_colo
 
 <p style="display: inline-block;" align="center">
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1276385505&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?
-uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1276385505&redirect=true)
-
 </p>
-
-
 
 <!--
 **Luisda2705/luisda2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
