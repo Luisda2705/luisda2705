@@ -7,14 +7,14 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 <a href="https://profile-counter.glitch.me/Luisda2705/count.svg"><img src="https://profile-counter.glitch.me/Luisda2705/count.svg"/>
 </p>
 
-
 <p style="display: inline-block;" align="center">
 <a href="https://twitter.com/Luisda2705"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 <a href="https://www.linkedin.com/in/luisda2705/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 <a href="https://stackoverflow.com/users/13078682/luisda2705"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 <a href="https://medium.com/@luisda2705" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
 </p>
-  
+
+
 <!---
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Luisda2705)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luisda2705/)
@@ -45,7 +45,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 ## Spotify and Others...
 <p style="display: inline-block;" align="center">
 <a href="https://www.buymeacoffee.com/luisda2705"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/> 
-</a><a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" width="150" height="100"/>
+</a><a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" width="100" height="100"/>
 
 </p>
 <p style="display: inline-block;" align="center">
