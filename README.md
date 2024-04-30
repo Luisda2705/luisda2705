@@ -48,9 +48,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 <a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="200" height="80"/>
 </p>
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" width="200" height="80"/>
-
-https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png
+#<a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-#button.png" width="200" height="80"/>
 
 <p style="display: inline-block;" align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=1276385505&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
