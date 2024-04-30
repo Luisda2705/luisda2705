@@ -45,7 +45,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 ## Spotify and Others...
 <p style="display: inline-block;" align="center">
 <a href="https://www.buymeacoffee.com/luisda2705"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/> 
-<a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="250" height="80"/>
+<a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA"><img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="220" height="80"/>
 </p>
 
 <p style="display: inline-block;" align="center">
