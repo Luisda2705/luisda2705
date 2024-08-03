@@ -27,7 +27,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 -->
 
 <p style="display: inline-block;" align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=dracula"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=dracula"/>
+<a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=transparent"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=transparent"/>
 </p>
 
 
