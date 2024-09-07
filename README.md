@@ -19,7 +19,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 -->
 
 <p style="display: inline-block;" align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=transparent"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=transparent"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=transparent"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=transparent"/>
 </p>
 
 ## Languages and Tools
@@ -34,9 +34,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 </p>
 
 ## Spotify and Others...
-<p style="display: inline-block;" align="center">
-  
-<a href="https://www.buymeacoffee.com/luisda2705"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+<p style="display: inline-block;" align="center"><a href="https://www.buymeacoffee.com/luisda2705"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
 
 <!-----
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/> 
