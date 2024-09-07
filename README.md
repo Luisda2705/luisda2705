@@ -13,13 +13,6 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 <a href="https://medium.com/@luisda2705" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
 </p>
 
-
-<!---
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Luisda2705)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luisda2705/)
-[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/13078682/luisda2705)
--->
-
 ## My Github Stats
 <!---
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=dracula)
@@ -28,7 +21,6 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 <p style="display: inline-block;" align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=transparent"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=transparent"/>
 </p>
-
 
 ## Languages and Tools
 <p style="display: inline-block;" align="center">
@@ -44,25 +36,19 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 ## Spotify and Others...
 <p style="display: inline-block;" align="center">
   
-<a href="https://www.buymeacoffee.com/luisda2705">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/> 
+<a href="https://www.buymeacoffee.com/luisda2705"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+
+<!-----
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=luisda2705&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/> 
+------>
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA">
-  <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="220" height="80"/>
-  
+  <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="220" height="80"/>  
 </p>
 
 <p style="display: inline-block;" align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-    
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>    
 </p>
-
-<!---
-<p style="display: inline-block;" align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=1276385505&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-</p>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&redirect=true)
--->
 
 <!--
 **Luisda2705/luisda2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
