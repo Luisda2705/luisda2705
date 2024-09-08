@@ -35,12 +35,15 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 </p>
 
 ## Spotify and Others...
+
 <p style="display: inline-block;" align="center">
   <a href="https://www.buymeacoffee.com/luisda2705"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
     <a href="https://www.paypal.com/donate/?hosted_button_id=VSVL94YAT44SA">
       <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="220" height="80"/>
-    </p>
+</p>
 
 <p style="display: inline-block;" align="center">
+  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)
+
 </p>
