@@ -42,16 +42,5 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
     </p>
 
 <p style="display: inline-block;" align="center">
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)
-
-<!---- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&redirect=true)
------>
-
 </p>
-
-<!--
-**Luisda2705/luisda2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
