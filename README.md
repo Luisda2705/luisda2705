@@ -42,7 +42,5 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 
 
 <p style="display: inline-block;" align="center">
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)
-
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)
 </p>
