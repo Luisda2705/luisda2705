@@ -42,14 +42,16 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
       <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="220" height="80"/>
 </p>
 
+<p style="display: inline-block;" align="left">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&redirect=true)
+
+</p>
+
 <p style="display: inline-block;" align="right">
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1276385505)
 
 </p>
 
-<p style="display: inline-block;" align="left">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&redirect=true)
-
-</p>
