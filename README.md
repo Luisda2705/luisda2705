@@ -18,7 +18,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 
 <p style="display: inline-block;" align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=transparent"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=tokyonights"/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut)](https://github.com/anuraghazr/github-readme-stats)
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut)](https://github.com/Luisda2705/github-readme-stats) />
 </p>
 
 ## Languages and Tools
