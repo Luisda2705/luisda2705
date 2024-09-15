@@ -9,8 +9,8 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 </p>
 
 <p style="display: inline-block;" align="center">
-<a href="mailto:lusartc27@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://www.linkedin.com/in/luisda2705/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+<a href="mailto:lusartc27@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >
+<a href="https://www.linkedin.com/in/luisda2705/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white">
 <a href="https://www.instagram.com/Luisda2705/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=28>  
 </p>
 
@@ -30,7 +30,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
-  <br><br>
+  <br>
 </p>
 
 ## Spotify and Others...
