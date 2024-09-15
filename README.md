@@ -2,7 +2,7 @@
 
 I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from Mexico. I build web pages and convert new ideas into apps!, I spent most of my time contributing to Open Source Projects and trying to resolve new problems each day...
 
-## Profile Views
+# Profile Views
 
 <p style="display: inline-block;" align="center">
 <a href="https://profile-counter.glitch.me/Luisda2705/count.svg"><img src="https://profile-counter.glitch.me/Luisda2705/count.svg"/>
@@ -24,7 +24,8 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 </p>
 
 
-## Languages and Tools
+# Languages and Tools
+
 <p style="display: inline-block;" align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
@@ -35,7 +36,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
   <br>
 </p>
 
-## Spotify and Others...
+# Spotify and Others...
 
 <p style="display: inline-block;" align="center">
 
