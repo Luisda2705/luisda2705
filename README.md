@@ -14,15 +14,13 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
 <a href="https://www.instagram.com/Luisda2705/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=28>  
 </p>
 
+
 ## My Github Stats
 
 <p style="display: inline-block;" align="center">
-  
-  <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=tokyonights"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&rank_icon=github&theme=tokyo"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&rank_icon=github&theme=tokyonight"/>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut"/>
-    
 </p>
-
 
 ## Languages and Tools
 
