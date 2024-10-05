@@ -44,8 +44,7 @@ I'm a **Security and Network Engineer**, Web Developer, and Guitar Player from M
   <a href="https://buymeacoffee.com/luisda2705">
      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="190">
   
-    <br>
-  <br>
+  <br><br>
   
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505" alt="Spotify">
 
