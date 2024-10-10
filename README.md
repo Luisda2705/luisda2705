@@ -39,10 +39,11 @@
 <p style="display: inline-block;" align="center">
 
   <a href="https://www.paypal.com/donate/?hosted_button_id=P56Z2Q68LYAWE">
-      <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="230" height="95"/>
+      <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="230" height="85"/>
   
   <a href="https://buymeacoffee.com/luisda2705">
-     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="170">
+     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="180">
   <br>
+    
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=8" alt="Spotify">
 </p>
