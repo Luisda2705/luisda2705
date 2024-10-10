@@ -45,5 +45,5 @@
      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="180">
   <br>
     
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=8" alt="Spotify">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=7" alt="Spotify">
 </p>
