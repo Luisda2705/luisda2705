@@ -18,8 +18,8 @@
 ## My Github Stats
 
 <p style="display: inline-block;" align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut&theme=tokyonight"/>
-  <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&rank_icon=github&theme=tokyonight"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut&theme=light"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut&theme=light"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=light"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&rank_icon=github&theme=light"/>
 </p>
 
 ## Languages and Tools
@@ -44,6 +44,5 @@
   <a href="https://buymeacoffee.com/luisda2705">
      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="170">
   <br>
-  
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=8" alt="Spotify">
 </p>
