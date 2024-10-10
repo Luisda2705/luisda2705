@@ -9,9 +9,9 @@ I'm a **Security and Network Engineer**, JavaScript Developer and Guitar Player 
 </p>
 
 <p style="display: inline-block;" align="center">
-<a href="https://www.linkedin.com/in/luisda2705/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"height=33>
-<a href="mailto:lusartc27@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=33>
-<a href="https://www.instagram.com/Luisda2705/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=33>  
+<a href="https://www.linkedin.com/in/luisda2705/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"height=32>
+<a href="mailto:lusartc27@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=32>
+<a href="https://www.instagram.com/Luisda2705/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32>  
 </p>
 
 
