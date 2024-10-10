@@ -9,9 +9,9 @@ I'm a **Security and Network Engineer**, JavaScript Developer and Guitar Player 
 </p>
 
 <p style="display: inline-block;" align="center">
-<a href="https://www.linkedin.com/in/luisda2705/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"height=35>
-<a href="mailto:lusartc27@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=35>
-<a href="https://www.instagram.com/Luisda2705/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35>  
+<a href="https://www.linkedin.com/in/luisda2705/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"height=34>
+<a href="mailto:lusartc27@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=34>
+<a href="https://www.instagram.com/Luisda2705/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=34>  
 </p>
 
 
@@ -42,7 +42,7 @@ I'm a **Security and Network Engineer**, JavaScript Developer and Guitar Player 
       <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="240" height="85"/>
   
   <a href="https://buymeacoffee.com/luisda2705">
-     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="190">
+     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="180">
   <br>
   
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=7" alt="Spotify">
