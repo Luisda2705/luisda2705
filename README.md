@@ -42,7 +42,7 @@ I'm a **Network and Security Engineer**, JavaScript Developer and Guitar Player 
       <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="240" height="85"/>
   
   <a href="https://buymeacoffee.com/luisda2705">
-     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="180">
+     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="170">
   <br>
   
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=7" alt="Spotify">
