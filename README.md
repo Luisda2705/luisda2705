@@ -18,8 +18,8 @@
 ## My Github Stats
 
 <p style="display: inline-block;" align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut&theme=synthwave"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut&theme=synthwave"/>
-  <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=synthwave"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&rank_icon=github&theme=synthwave"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut&theme=merko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut&theme=merko"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=merko"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&rank_icon=github&theme=merko"/>
 </p>
 
 ## Languages and Tools
