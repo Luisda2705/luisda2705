@@ -28,15 +28,14 @@
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <br>
 </p>
 
 ## Spotify and Others...
 
 <p style="display: inline-block;" align="center">
-
   <a href="https://www.paypal.com/donate/?hosted_button_id=P56Z2Q68LYAWE">
       <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="230" height="85"/>
   
