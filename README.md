@@ -42,11 +42,9 @@
   <a href="https://buymeacoffee.com/luisda2705">
      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="180">
   <br>
-    
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=8" alt="Spotify">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify">
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=8" alt="Spotify">
+  
 </p>
 
