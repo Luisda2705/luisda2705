@@ -45,6 +45,7 @@
 
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=232323&interchange=true&bar_color=53b14f&bar_color_cover=false" align="top" alt="Spotify">
   <br>
+  
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=8" alt="Spotify">
 </p>
 
