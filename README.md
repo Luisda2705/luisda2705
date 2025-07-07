@@ -5,7 +5,8 @@
 ##                                                                   Profile Views
 
 <p style="display: inline-block;" align="center">
-  <a href="https://profile-counter.glitch.me/Luisda2705/count.svg"><img src="https://profile-counter.glitch.me/Luisda2705/count.svg"/>
+</--- <a href="https://profile-counter.glitch.me/Luisda2705/count.svg"><img src="https://profile-counter.glitch.me/Luisda2705/count.svg"/> --->
+   
   <img src="https://profile-counter.deno.dev/Luisda2705/count.svg" alt="Key:: Visitor's Count" />
 </p>
 
