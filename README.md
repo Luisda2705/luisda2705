@@ -11,14 +11,12 @@
 </p>
 
 ## My Github Stats
-
-<! ---
+<!--  
 <p style="display: inline-block;" align="center">
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisda2705&layout=donut&theme=default"><img src="https://github-readme-stats.vercel.app/api/top-langs/? username=Luisda2705&layout=donut&theme=default"/>
    <a href="https://github-readme-stats.vercel.app/api?username=Luisda2705&show_icons=true&theme=default"><img src="https://github-readme-stats.vercel.app/api?username=Luisda2705&rank_icon=github&theme=default"/>
  </p>
------>
-
+-->
 
 ## Languages and Tools
 
