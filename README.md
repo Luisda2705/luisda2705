@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi , I'm Louis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my profile..
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi , I'm Louis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my profile.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **JavaScript** Developer from Mexico. I build web pages and convert new ideas into apps!, I spent most of my time contributing to Open Source Projects and trying to resolve new problems each day...
 
@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/luisda2705/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"height=33>
 <a href="mailto:danyboy_ortega@hotmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=33>
 <a href="https://www.instagram.com/Luisda2705/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=33> 
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"height=33>
 
 </p>
 
