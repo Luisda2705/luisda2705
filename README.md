@@ -41,9 +41,9 @@
       <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" width="230" height="85"/>
   -->
   
-  <br>
   <a href="https://buymeacoffee.com/luisda2705">
      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="180">
+  <br>
   <br>
 
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&cover_image=true&theme=default&show_offline=false&background_color=232323&interchange=true&bar_color=53b14f&bar_color_cover=false" align="top" alt="Spotify">
