@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1276385505&redirect=true">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=10" alt="Spotify">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=8" alt="Spotify">
   </a>
 </p>
     
