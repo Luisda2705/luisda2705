@@ -51,7 +51,7 @@
   
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&count=7" alt="Spotify">
   
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&unique=1">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1276385505&unique=on">
   
 </p>
 
